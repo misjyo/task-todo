@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.step {
+  border: 10px solid white;
+  padding: 30px;
+  background-color: #EFEDED;
+  justify-content: space-between;
+height: 37rem;
+}
